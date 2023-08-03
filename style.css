@@ -1,0 +1,43 @@
+head {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato',sans-serif;
+}
+
+body {
+  display:inline;
+  justify-content: center;
+  align-items: center;
+  height:100vh;
+  text-align:center;
+  background: url(https://cdn.glitch.global/a47f0ef8-2096-4862-8650-72771bc02022/fondoamb.jpg?v=1690984861459);
+  background-position: center;
+  background-size: cover;
+  }
+   
+  h1 {
+    font-size:5rem;
+    width:100%;
+    margin:20px 10px;
+    Color: green;  
+  }
+
+  h2{
+    h1 {
+    font-size:4rem;
+    width:100%;
+    margin:20px 10px;
+    Color: blue;
+  }
+  
+  p{
+    font-size:5rem;
+    width:100%;
+    margin:20px 10px;
+    Color: #000000; 
+    font-weight: bold; 
+      
+    }
+}
+ 
